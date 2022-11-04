@@ -1,0 +1,14 @@
+{
+  "name": "projecttt",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "nconf": "^0.12.0"
+  }
+}
